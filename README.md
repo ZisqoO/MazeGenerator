@@ -1,3 +1,5 @@
+![Project Screenshot](Screenshots/mazeScreenShot.png)
+
 # Maze Generator
 
 This project is a maze generator implemented in Unity using C#.
@@ -47,3 +49,5 @@ The maze generator creates a random maze using a depth-first search algorithm. I
 ## How to Customize
 
 Feel free to explore and customize the code based on your preferences. You can adjust maze dimensions, wall appearance, or even integrate it into a larger project.
+
+![Progress](Screenshots/mazePreview.gif)
